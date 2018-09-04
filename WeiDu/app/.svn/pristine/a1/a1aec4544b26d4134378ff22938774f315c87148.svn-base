@@ -1,0 +1,130 @@
+// Generated code from Butter Knife. Do not modify!
+package com.bw.movie.ui.member.act_login.view;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.bw.movie.R;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class UserLoginActivity_ViewBinding implements Unbinder {
+  private UserLoginActivity target;
+
+  private View view2131230782;
+
+  private View view2131230777;
+
+  private View view2131230778;
+
+  private View view2131230783;
+
+  private View view2131230785;
+
+  private View view2131230779;
+
+  @UiThread
+  public UserLoginActivity_ViewBinding(UserLoginActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public UserLoginActivity_ViewBinding(final UserLoginActivity target, View source) {
+    this.target = target;
+
+    View view;
+    target.genernalToolBarTitle = Utils.findRequiredViewAsType(source, R.id.genernal_tool_bar_title, "field 'genernalToolBarTitle'", TextView.class);
+    target.inputMobile = Utils.findRequiredViewAsType(source, R.id.act_user_login_inputMobile, "field 'inputMobile'", EditText.class);
+    target.inputPwd = Utils.findRequiredViewAsType(source, R.id.act_user_login_inputPwd, "field 'inputPwd'", EditText.class);
+    view = Utils.findRequiredView(source, R.id.act_user_login_pwdVisibility, "field 'imgPwdVisibility' and method 'onViewClicked'");
+    target.imgPwdVisibility = Utils.castView(view, R.id.act_user_login_pwdVisibility, "field 'imgPwdVisibility'", ImageView.class);
+    view2131230782 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onViewClicked(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.act_user_login_btn, "field 'loginBtn' and method 'onViewClicked'");
+    target.loginBtn = Utils.castView(view, R.id.act_user_login_btn, "field 'loginBtn'", Button.class);
+    view2131230777 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onViewClicked(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.act_user_login_clear_text, "field 'actUserLoginClearText' and method 'onViewClicked'");
+    target.actUserLoginClearText = Utils.castView(view, R.id.act_user_login_clear_text, "field 'actUserLoginClearText'", ImageView.class);
+    view2131230778 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onViewClicked(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.act_user_login_qqLogin, "field 'actUserLoginQqLogin' and method 'onViewClicked'");
+    target.actUserLoginQqLogin = Utils.castView(view, R.id.act_user_login_qqLogin, "field 'actUserLoginQqLogin'", ImageView.class);
+    view2131230783 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onViewClicked(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.act_user_login_wxLogin, "field 'actUserLoginWxLogin' and method 'onViewClicked'");
+    target.actUserLoginWxLogin = Utils.castView(view, R.id.act_user_login_wxLogin, "field 'actUserLoginWxLogin'", ImageView.class);
+    view2131230785 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onViewClicked(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.act_user_login_goToReg, "method 'onViewClicked'");
+    view2131230779 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onViewClicked(p0);
+      }
+    });
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    UserLoginActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.genernalToolBarTitle = null;
+    target.inputMobile = null;
+    target.inputPwd = null;
+    target.imgPwdVisibility = null;
+    target.loginBtn = null;
+    target.actUserLoginClearText = null;
+    target.actUserLoginQqLogin = null;
+    target.actUserLoginWxLogin = null;
+
+    view2131230782.setOnClickListener(null);
+    view2131230782 = null;
+    view2131230777.setOnClickListener(null);
+    view2131230777 = null;
+    view2131230778.setOnClickListener(null);
+    view2131230778 = null;
+    view2131230783.setOnClickListener(null);
+    view2131230783 = null;
+    view2131230785.setOnClickListener(null);
+    view2131230785 = null;
+    view2131230779.setOnClickListener(null);
+    view2131230779 = null;
+  }
+}

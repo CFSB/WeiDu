@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <!--    此布局命名规范
+        act_main_(前缀)
+    -->
+
+    <!-- 啤酒肚
+        存放基本的4个碎片：影片、影院、会员、
+     -->
+    <FrameLayout
+        android:id="@+id/act_main_beer_belly"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.91"/>
+
+    <!-- 老马识途
+        底部4个（导航）-->
+
+    <com.ashokvarma.bottomnavigation.BottomNavigationBar
+        android:id="@+id/act_main_bottomNavigationBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>

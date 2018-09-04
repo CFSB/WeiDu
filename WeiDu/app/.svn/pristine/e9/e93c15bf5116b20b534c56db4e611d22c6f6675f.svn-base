@@ -1,0 +1,46 @@
+package com.bw.movie.ui.member.act_login.presenter;
+
+import com.bw.movie.base.mvpbase.BasePresenter;
+import com.bw.movie.ui.member.act_login.bean.LoginBean;
+import com.bw.movie.ui.member.act_login.interactor.IUserLoginInteractor;
+import com.bw.movie.ui.member.act_login.interactor.UserLoginInteractor;
+import com.bw.movie.ui.member.act_login.view.IUserLoginView;
+
+/**
+ * @author BySevenGroup_zwj
+ * @create 2018/9/1 20:56
+ * @Description
+ */
+public class UserLoginPresenter extends BasePresenter<IUserLoginView> {
+
+    private UserLoginInteractor userLoginInteractor;
+
+    public UserLoginPresenter(IUserLoginView view) {
+        super(view);
+    }
+
+    @Override
+    protected void initModel() {
+        userLoginInteractor = new UserLoginInteractor();
+    }
+
+    public void goToLogin(String mobile, String pwd) {
+
+        userLoginInteractor.goToLogin(mobile, pwd, new IUserLoginInteractor() {
+            @Override
+            public void getLoginDataSuc(LoginBean loginBean) {
+                view.getLoginDataSuc(loginBean);
+            }
+
+            @Override
+            public void getLoginDataFai(String errMsg) {
+                view.getLoginDataFai(errMsg);
+            }
+        });
+    }
+
+    @Override
+    public void onDestory() {
+        super.onDestory();
+    }
+}

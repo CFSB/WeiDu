@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--
+        会员页面
+        4个功能条的样式
+    -->
+    <style name="memberFunsItmeStyle">
+        <item name="android:drawableRight">@drawable/member_funs_item_you_jian_tou</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:layout_marginTop">@dimen/dp_10</item>
+        <item name="android:background">@color/colorMemberFunsItemBg</item>
+        <item name="android:paddingBottom">@dimen/dp_10</item>
+        <item name="android:paddingTop">@dimen/dp_10</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

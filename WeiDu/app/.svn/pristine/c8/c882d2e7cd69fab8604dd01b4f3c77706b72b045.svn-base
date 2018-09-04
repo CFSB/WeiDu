@@ -1,0 +1,75 @@
+// Generated code from Butter Knife. Do not modify!
+package com.bw.movie.ui.options.view.recordFeedBack.view;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.bw.movie.R;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class Act_options_recordFeedBack_ViewBinding implements Unbinder {
+  private Act_options_recordFeedBack target;
+
+  private View view2131230997;
+
+  private View view2131230995;
+
+  @UiThread
+  public Act_options_recordFeedBack_ViewBinding(Act_options_recordFeedBack target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public Act_options_recordFeedBack_ViewBinding(final Act_options_recordFeedBack target,
+      View source) {
+    this.target = target;
+
+    View view;
+    target.genernalToolBarTitle = Utils.findRequiredViewAsType(source, R.id.genernal_tool_bar_title, "field 'genernalToolBarTitle'", TextView.class);
+    target.recordFeedBackName = Utils.findRequiredViewAsType(source, R.id.record_feed_back_name, "field 'recordFeedBackName'", EditText.class);
+    view = Utils.findRequiredView(source, R.id.record_feed_back_submit, "field 'recordFeedBackSubmit' and method 'onViewClicked'");
+    target.recordFeedBackSubmit = Utils.castView(view, R.id.record_feed_back_submit, "field 'recordFeedBackSubmit'", Button.class);
+    view2131230997 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onViewClicked(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.record_feed_back_back, "field 'recordFeedBackBack' and method 'onViewClicked'");
+    target.recordFeedBackBack = Utils.castView(view, R.id.record_feed_back_back, "field 'recordFeedBackBack'", ImageView.class);
+    view2131230995 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onViewClicked(p0);
+      }
+    });
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    Act_options_recordFeedBack target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.genernalToolBarTitle = null;
+    target.recordFeedBackName = null;
+    target.recordFeedBackSubmit = null;
+    target.recordFeedBackBack = null;
+
+    view2131230997.setOnClickListener(null);
+    view2131230997 = null;
+    view2131230995.setOnClickListener(null);
+    view2131230995 = null;
+  }
+}

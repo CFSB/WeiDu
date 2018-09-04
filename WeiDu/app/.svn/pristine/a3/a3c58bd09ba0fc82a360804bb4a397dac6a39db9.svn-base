@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!--        以下为自定义      -->
+    <color name="colorRed">#FF0000</color><!-- 红-->
+    <color name="colorNavRed">#ED2317</color><!-- 导航红-->
+    <color name="colorToolBarRed">#DB3E38</color><!-- toolBar红-->
+    <color name="colorOrange">#FFBC00</color><!-- 橙-->
+    <color name="colorPink">#FFBCA0</color><!-- 粉-->
+    <color name="colorYellow">#FFFF00</color><!-- 黄-->
+    <color name="colorOldGreen">#228B22</color><!-- 老年绿-->
+    <color name="colorYoungGreen">#00FF00</color><!-- 年轻绿-->
+    <color name="colorCyan">#00FFFF</color><!-- 青-->
+    <color name="colorDarkBlue">#000080</color><!-- 深蓝-->
+    <color name="colorLightBlue">#0000FF</color><!-- 浅蓝-->
+    <color name="colorOldBlue">#3086BE</color><!-- 老蓝-->
+    <color name="colorPurple">#CD00CD</color><!-- 紫-->
+
+    <color name="colorBlack">#000000</color><!-- 白-->
+    <color name="colorWhite">#FFFFFF</color><!-- 黑-->
+
+    <color name="colorDartGray">#696969</color><!-- 深灰-->
+    <color name="colorLightGray">#CCCCCC</color><!-- 浅灰-->
+
+    <color name="colorMemberFunsItemBg">#F9F8F8</color><!-- 会员页面 4个功能条的样式-->
+
+    <!--    登录的两种颜色 -->
+    <color name="colorLoginBtnDisable">#F8938B</color>
+    <color name="colorLoginBtnEnable">#DC413C</color>
+</resources>

@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\bf0a77ca4516cc9d39027b090ef453ce\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\56b4c54fb50d62a095abede659ba5579\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2fb82f12d0bd2051fd0b7337c9e39783\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\192f4fd737e4b4eb306711a054f05ee0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\886c4c53b4ce1ac9f4b02b613a895b07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\e391cd39eb38088a2f1a4e5563a451e6\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\5169ea5a47c3be14bdf2e838df2a1eeb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base-support:0.14.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-base-support-0.14.1.aar\410125ae5f3760733069ac6916a5a4e6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\0e91bde9aea84848c173776782a57437\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-webp:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-webp-1.10.0.aar\6121801fd87e8c9bc1906f9702352d9b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:webpsupport:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\webpsupport-1.10.0.aar\1cc2dc252a38d6d52cd08d89f86a749d\AndroidManifest.xml:2:1-9:12
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\19faf89b295778215e168f590592f32f\AndroidManifest.xml:15:1-21:12
+MERGED from [com.orhanobut:logger:2.2.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\logger-2.2.0.aar\335895b0f4d2781b91abbe863f3891e7\AndroidManifest.xml:2:1-8:12
+MERGED from [com.github.userswlwork:pull-to-refresh:1.0.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\pull-to-refresh-1.0.0.aar\5255e74328b4bbdbf166a2e00b83a1dd\AndroidManifest.xml:2:1-13:12
+MERGED from [com.xhb:xbanner:1.2.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\xbanner-1.2.2.aar\9b99b4853b915d6dbd80c5515316910d\AndroidManifest.xml:2:1-15:12
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\ccfaf12e67abc797a5c8674f135eca3d\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\3f05ce5f961131470e1057a480d297ff\AndroidManifest.xml:2:1-13:12
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\e0a90926f1d99843a818eff6b4348ffb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.3] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\bottom-navigation-bar-2.0.3.aar\8ea98bbabd8905ba2f0425ac859d631d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\94ec08c4c2526184b56a352fc8e8c529\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\95d0fd5ac5d95b136bcc657e3e5061c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\60ce311873f01b2969176fe39afa2669\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\797c8cb30c0cff85d43b634a145c1772\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7df721fc88c1992fd0baea65dbfd7bd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\21ea1e5b0492a97ef43d73ff6ae14fc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ea9d0fda2e795086dc7f43e44fcbf209\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\afbfc0d0ca5a09b1b10495fc2ac54b16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f7fb19b3ac78b0d4d966d2e5add7dea2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\2b51ec6d39361252bc2350e4a95ccfa9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\b23a85eed00222c5a6b92fb938edffe6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\83b45d6aec534d9c9a9429c719e02811\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\52429d99f367d934a832a0f00898613a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\792d56237f96346ccdb2b600d5c5b42e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\21963ecb8b143cf3fff861aab2871b14\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f3194127ce52218ce1b4ca96a773b931\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\9a299d3f666b46fd01a3e02c7bf208fa\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7f5c1115289c035b427f508aa3473779\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\120eb951343604af1629cf39a15fb5f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e9e645da77a6841efe01c0a5f691a9b7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2fe82551da544e986888488f58bcce46\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\bf0a77ca4516cc9d39027b090ef453ce\AndroidManifest.xml:11:5-20
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\bf0a77ca4516cc9d39027b090ef453ce\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\192f4fd737e4b4eb306711a054f05ee0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\192f4fd737e4b4eb306711a054f05ee0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.userswlwork:pull-to-refresh:1.0.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\pull-to-refresh-1.0.0.aar\5255e74328b4bbdbf166a2e00b83a1dd\AndroidManifest.xml:11:5-20
+MERGED from [com.github.userswlwork:pull-to-refresh:1.0.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\pull-to-refresh-1.0.0.aar\5255e74328b4bbdbf166a2e00b83a1dd\AndroidManifest.xml:11:5-20
+MERGED from [com.xhb:xbanner:1.2.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\xbanner-1.2.2.aar\9b99b4853b915d6dbd80c5515316910d\AndroidManifest.xml:9:5-13:19
+MERGED from [com.xhb:xbanner:1.2.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\xbanner-1.2.2.aar\9b99b4853b915d6dbd80c5515316910d\AndroidManifest.xml:9:5-13:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\3f05ce5f961131470e1057a480d297ff\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\3f05ce5f961131470e1057a480d297ff\AndroidManifest.xml:11:5-20
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.3] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\bottom-navigation-bar-2.0.3.aar\8ea98bbabd8905ba2f0425ac859d631d\AndroidManifest.xml:11:5-47
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.3] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\bottom-navigation-bar-2.0.3.aar\8ea98bbabd8905ba2f0425ac859d631d\AndroidManifest.xml:11:5-47
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\2b51ec6d39361252bc2350e4a95ccfa9\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\2b51ec6d39361252bc2350e4a95ccfa9\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\9a299d3f666b46fd01a3e02c7bf208fa\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\9a299d3f666b46fd01a3e02c7bf208fa\AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:12:9-51
+	android:icon
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:10:9-46
+	android:allowBackup
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:8:9-32
+activity#com.bw.movie.ui.MainActivity
+ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:15:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.bw.movie.ui.member.act_login.view.UserLoginActivity
+ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:22:9-80
+	android:name
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:22:19-77
+activity#com.bw.movie.ui.movie.view.MovieDetailsActivity
+ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:23:9-81
+	android:name
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml:23:19-69
+uses-sdk
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\bf0a77ca4516cc9d39027b090ef453ce\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\bf0a77ca4516cc9d39027b090ef453ce\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\56b4c54fb50d62a095abede659ba5579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\56b4c54fb50d62a095abede659ba5579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2fb82f12d0bd2051fd0b7337c9e39783\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2fb82f12d0bd2051fd0b7337c9e39783\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\192f4fd737e4b4eb306711a054f05ee0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\192f4fd737e4b4eb306711a054f05ee0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\886c4c53b4ce1ac9f4b02b613a895b07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\886c4c53b4ce1ac9f4b02b613a895b07\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\e391cd39eb38088a2f1a4e5563a451e6\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\e391cd39eb38088a2f1a4e5563a451e6\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\5169ea5a47c3be14bdf2e838df2a1eeb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\5169ea5a47c3be14bdf2e838df2a1eeb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base-support:0.14.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-base-support-0.14.1.aar\410125ae5f3760733069ac6916a5a4e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base-support:0.14.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-base-support-0.14.1.aar\410125ae5f3760733069ac6916a5a4e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\0e91bde9aea84848c173776782a57437\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\0e91bde9aea84848c173776782a57437\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-webp-1.10.0.aar\6121801fd87e8c9bc1906f9702352d9b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-webp-1.10.0.aar\6121801fd87e8c9bc1906f9702352d9b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\webpsupport-1.10.0.aar\1cc2dc252a38d6d52cd08d89f86a749d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\webpsupport-1.10.0.aar\1cc2dc252a38d6d52cd08d89f86a749d\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\19faf89b295778215e168f590592f32f\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\19faf89b295778215e168f590592f32f\AndroidManifest.xml:19:5-43
+MERGED from [com.orhanobut:logger:2.2.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\logger-2.2.0.aar\335895b0f4d2781b91abbe863f3891e7\AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:2.2.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\logger-2.2.0.aar\335895b0f4d2781b91abbe863f3891e7\AndroidManifest.xml:6:5-43
+MERGED from [com.github.userswlwork:pull-to-refresh:1.0.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\pull-to-refresh-1.0.0.aar\5255e74328b4bbdbf166a2e00b83a1dd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.userswlwork:pull-to-refresh:1.0.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\pull-to-refresh-1.0.0.aar\5255e74328b4bbdbf166a2e00b83a1dd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xhb:xbanner:1.2.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\xbanner-1.2.2.aar\9b99b4853b915d6dbd80c5515316910d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.xhb:xbanner:1.2.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\xbanner-1.2.2.aar\9b99b4853b915d6dbd80c5515316910d\AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\ccfaf12e67abc797a5c8674f135eca3d\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\ccfaf12e67abc797a5c8674f135eca3d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\3f05ce5f961131470e1057a480d297ff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\3f05ce5f961131470e1057a480d297ff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\e0a90926f1d99843a818eff6b4348ffb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\e0a90926f1d99843a818eff6b4348ffb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.3] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\bottom-navigation-bar-2.0.3.aar\8ea98bbabd8905ba2f0425ac859d631d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.3] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\bottom-navigation-bar-2.0.3.aar\8ea98bbabd8905ba2f0425ac859d631d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\94ec08c4c2526184b56a352fc8e8c529\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\94ec08c4c2526184b56a352fc8e8c529\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\95d0fd5ac5d95b136bcc657e3e5061c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\95d0fd5ac5d95b136bcc657e3e5061c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\60ce311873f01b2969176fe39afa2669\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\60ce311873f01b2969176fe39afa2669\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\797c8cb30c0cff85d43b634a145c1772\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\797c8cb30c0cff85d43b634a145c1772\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7df721fc88c1992fd0baea65dbfd7bd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7df721fc88c1992fd0baea65dbfd7bd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\21ea1e5b0492a97ef43d73ff6ae14fc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\21ea1e5b0492a97ef43d73ff6ae14fc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ea9d0fda2e795086dc7f43e44fcbf209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ea9d0fda2e795086dc7f43e44fcbf209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\afbfc0d0ca5a09b1b10495fc2ac54b16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\afbfc0d0ca5a09b1b10495fc2ac54b16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f7fb19b3ac78b0d4d966d2e5add7dea2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f7fb19b3ac78b0d4d966d2e5add7dea2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\2b51ec6d39361252bc2350e4a95ccfa9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\2b51ec6d39361252bc2350e4a95ccfa9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\b23a85eed00222c5a6b92fb938edffe6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\b23a85eed00222c5a6b92fb938edffe6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\83b45d6aec534d9c9a9429c719e02811\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\83b45d6aec534d9c9a9429c719e02811\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\52429d99f367d934a832a0f00898613a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\52429d99f367d934a832a0f00898613a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\792d56237f96346ccdb2b600d5c5b42e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\792d56237f96346ccdb2b600d5c5b42e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\21963ecb8b143cf3fff861aab2871b14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\21963ecb8b143cf3fff861aab2871b14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f3194127ce52218ce1b4ca96a773b931\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f3194127ce52218ce1b4ca96a773b931\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\9a299d3f666b46fd01a3e02c7bf208fa\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\9a299d3f666b46fd01a3e02c7bf208fa\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7f5c1115289c035b427f508aa3473779\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7f5c1115289c035b427f508aa3473779\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\120eb951343604af1629cf39a15fb5f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\120eb951343604af1629cf39a15fb5f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e9e645da77a6841efe01c0a5f691a9b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e9e645da77a6841efe01c0a5f691a9b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2fe82551da544e986888488f58bcce46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lb838\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2fe82551da544e986888488f58bcce46\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lb838\Desktop\WeiDu\app\src\main\AndroidManifest.xml

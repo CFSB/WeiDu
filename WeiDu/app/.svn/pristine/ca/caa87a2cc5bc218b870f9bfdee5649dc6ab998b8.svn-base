@@ -1,0 +1,140 @@
+package com.bw.movie.ui.member.act_login.view;
+
+import android.content.Context;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+import com.bw.movie.R;
+import com.bw.movie.base.BaseActivity;
+import com.bw.movie.ui.member.act_login.bean.LoginBean;
+import com.bw.movie.ui.member.act_login.presenter.IUserLoginPresenter;
+import com.bw.movie.ui.member.act_login.presenter.UserLoginPresenter;
+import com.bw.movie.utils.EncryptUtil;
+import com.bw.movie.utils.ToastUtils;
+
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import butterknife.OnClick;
+import butterknife.Unbinder;
+
+/**
+ * @author BySevenGroup_zwj
+ * @create 2018/9/1 20:25
+ * @Description
+ */
+public class UserLoginActivity extends BaseActivity <UserLoginPresenter> implements IUserLoginView{
+
+    @BindView(R.id.genernal_tool_bar_title)
+    TextView genernalToolBarTitle;//页面标题
+    @BindView(R.id.act_user_login_inputMobile)
+    EditText inputMobile;//用户输入的手机号
+    @BindView(R.id.act_user_login_inputPwd)
+    EditText inputPwd;//密码
+    @BindView(R.id.act_user_login_pwdVisibility)
+    ImageView actUserLoginPwdVisibility;//显示隐藏秘密
+    @BindView(R.id.act_user_login_btn)
+    Button actUserLoginBtn;//登录按钮
+    private Unbinder unbinder;
+
+    @Override
+    protected int provideLayoutId() {
+        return R.layout.activity_user_login;
+    }
+
+    @Override
+    protected void initListener() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    protected void initView() {
+        initToolBar();
+    }
+
+    private void initToolBar() {
+        initToolbar(R.id.act_user_login_toolBar);
+        genernalToolBarTitle.setText(R.string.top_page_userLogin_title);
+        getSupportActionBar().setHomeAsUpIndicator(R.drawable.img_finish_page_white);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                break;
+        }
+        return true;
+    }
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        unbinder = ButterKnife.bind(this);
+    }
+
+    @Override
+    protected UserLoginPresenter getPresenter() {
+        return presenter != null ? presenter : (presenter = new UserLoginPresenter(this));
+    }
+
+    @OnClick({R.id.act_user_login_pwdVisibility, R.id.act_user_login_btn, R.id.act_user_login_goToReg, R.id.act_user_login_qqLogin, R.id.act_user_login_wxLogin})
+    public void onViewClicked(View view) {
+        switch (view.getId()) {
+            case R.id.act_user_login_pwdVisibility://显示隐藏密码
+                break;
+            case R.id.act_user_login_btn://点击登录按钮
+                goToLogin(inputMobile.getText().toString().trim(),inputPwd.getText().toString().trim());
+                break;
+            case R.id.act_user_login_goToReg://去注册
+                break;
+            case R.id.act_user_login_qqLogin://qq登录
+                break;
+            case R.id.act_user_login_wxLogin://微信登录
+                break;
+        }
+    }
+
+    private void goToLogin(String mobile, String pwd) {
+        presenter.goToLogin(mobile,EncryptUtil.encrypt(pwd));
+         //Log.i("aaa","解密的密码"+EncryptUtil.decrypt("uov5L6x0HQzUQ7tkRkE3hg=="));
+    }
+
+    @Override
+    public void getLoginDataSuc(LoginBean loginBean) {//请求成功回调
+        //登录成功，用户信息保存，下次自动登录+
+
+    }
+
+    @Override
+    public void getLoginDataFai(String errMsg) {//请求失败回调
+        ToastUtils.showShort(this,errMsg);
+    }
+
+    @Override
+    public Context getContext() {
+        return null;
+    }
+
+    @Override
+    protected void onDestroy() {
+        if(presenter != null)
+            presenter.onDestory();
+        if (unbinder != null) {
+            unbinder = null;
+        }
+        super.onDestroy();
+    }
+}

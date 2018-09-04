@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/colorLightGray"
+    >
+    <!--    命名规范
+        frg_member_
+    -->
+    <include
+        android:id="@+id/frg_member_toolBar"
+        layout="@layout/general_tool_bar"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/member_layout_bg"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_600"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            >
+            <com.facebook.drawee.view.SimpleDraweeView
+                android:id="@+id/frg_member_userIcon"
+                app:placeholderImage="@drawable/placeholder_img"
+                android:layout_width="@dimen/dp_100"
+                android:layout_height="@dimen/dp_100" />
+            <TextView
+                android:id="@+id/frg_member_nickName"
+                android:text="随心"
+                android:layout_marginTop="@dimen/dp_10"
+                android:layout_marginBottom="@dimen/dp_20"
+                android:textSize="@dimen/dp_20"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <!--    隐藏或不隐藏的微信图标 -->
+            <ImageView
+                android:id="@+id/frg_member_wx_login"
+                android:src="@drawable/img_wx"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_30"
+                android:layout_marginBottom="@dimen/dp_20"
+                />
+
+            <!--    登录注册图标 下面的4个功能条目
+            -->
+
+            <!--    我的购票记录  -->
+            <TextView
+                android:text="@string/findUserBuyTickerRecordList"
+                style="@style/memberFunsItmeStyle"
+                />
+            <!--    我关注的影片-->
+            <TextView
+                android:text="我关注的影片"
+                style="@style/memberFunsItmeStyle"
+                />
+            <!--    我关注的影院-->
+            <TextView
+                android:text="我关注的影院"
+                style="@style/memberFunsItmeStyle"
+                />
+            <!--    为你推荐-->
+            <TextView
+                android:text="为你推荐"
+                style="@style/memberFunsItmeStyle"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,36 @@
+// Generated code from Butter Knife. Do not modify!
+package com.bw.movie.ui.cinema.view.allcinmeaview;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.support.v7.widget.RecyclerView;
+import android.view.View;
+import butterknife.Unbinder;
+import butterknife.internal.Utils;
+import com.bw.movie.R;
+import com.scwang.smartrefresh.layout.SmartRefreshLayout;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class AllCinemaFragment_ViewBinding implements Unbinder {
+  private AllCinemaFragment target;
+
+  @UiThread
+  public AllCinemaFragment_ViewBinding(AllCinemaFragment target, View source) {
+    this.target = target;
+
+    target.cinAllFrgRecyclerview = Utils.findRequiredViewAsType(source, R.id.cin_all_frg_recyclerview, "field 'cinAllFrgRecyclerview'", RecyclerView.class);
+    target.cinAllFrgSmert = Utils.findRequiredViewAsType(source, R.id.cin_all_frg_smert, "field 'cinAllFrgSmert'", SmartRefreshLayout.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    AllCinemaFragment target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.cinAllFrgRecyclerview = null;
+    target.cinAllFrgSmert = null;
+  }
+}

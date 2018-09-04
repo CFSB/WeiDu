@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_80"
+    android:paddingTop="@dimen/dp_40"
+    android:paddingBottom="@dimen/dp_10"
+    android:background="@color/colorRed"
+    >
+    <!--    命名规范
+    genernal_tool_bar_
+    -->
+    <TextView
+        android:id="@+id/genernal_tool_bar_title"
+        android:textSize="@dimen/dp_20"
+        android:textColor="@color/colorWhite"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</android.support.v7.widget.Toolbar>

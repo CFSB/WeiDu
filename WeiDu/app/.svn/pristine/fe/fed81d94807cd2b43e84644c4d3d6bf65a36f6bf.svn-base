@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Lb838\\Desktop\\WeiDu\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lb838\\.gradle\\caches\\transforms-1\\files-1.1\\pull-to-refresh-1.0.0.aar\\5255e74328b4bbdbf166a2e00b83a1dd\\res\\values-he\\values-he.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "191,259,326",
+                        "endColumns": "67,66,70",
+                        "endOffsets": "254,321,392"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,123,190",
+                        "endColumns": "67,66,70",
+                        "endOffsets": "118,185,256"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\8646c95a5aaf4a1d3867541708d2a8a1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\72a0c97f22c070a2fa7e243750bfdb9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\972947f03d61be5c05a7cee2cc8c4eb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\082fb93c5a507c24f81cb5561ad37cdf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\558b82d5c242c5cbc3e38e1abb43e104\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\ddc37e246730184f72082ce0bc80ed91\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\f568e79de411f8c7dd17691d0f1e0d91\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base-support:0.14.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-base-support-0.14.1.aar\7207d3cb15b1bf1874bdb77605c69b53\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\16fea95417cdb4fbf273d34d181f0103\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-webp:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-webp-1.10.0.aar\016e5ac3abfb4ef707dd08059b03e02b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:webpsupport:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\webpsupport-1.10.0.aar\52b7c811f2a3524ca9e8d82dce544683\AndroidManifest.xml:2:1-9:12
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\0b531a6aebb08b13257c34271f379f92\AndroidManifest.xml:15:1-21:12
+MERGED from [com.orhanobut:logger:2.2.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\logger-2.2.0.aar\524ffec7f230dc6ea3d99bbc611d0297\AndroidManifest.xml:2:1-8:12
+MERGED from [com.github.userswlwork:pull-to-refresh:1.0.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\pull-to-refresh-1.0.0.aar\8ebfdff97e39bce425fdb59e0227ca33\AndroidManifest.xml:2:1-13:12
+MERGED from [com.xhb:xbanner:1.2.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\xbanner-1.2.2.aar\2868b013067307111632e635eb80512c\AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\75e3b8e5d9addc9c1b5a6c1a3c722d71\AndroidManifest.xml:2:1-13:12
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\8fc0967110ea3075a8f2b77bf51e3c7f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.3] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\bottom-navigation-bar-2.0.3.aar\88e329b7dee424586b7d22d030eb1be4\AndroidManifest.xml:2:1-13:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.4.aar\de74bc82387426282b6ab365f3d9e2ac\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e765eada81a33bcf5767f654f905c8eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\99648502773a19c885098d49974f29bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\459aecde731255e1a0ec6421751ee6f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f66b37eb98670dba89cc6b71e82db28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\88cc76cafe0c9c2452b03bc9e6682b6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1cd0887dbe33635f70cdd35ae19de95f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\4391b4b7105ef000b0a58f6dfb9741b9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6b71fd41ece1e769d54e8b3f73d17b19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\578ff7bef5fe7504c1a9d0f333b0071f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e8edd62cb4b170dbaa2b5446c84aa4d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\d07e39fbae6e9f13310ca98fa09b53bc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\b8f81a830dff136a6f9a0cfd6f97b618\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\d796d1f3285d202e55a0cc2ac9361cd9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\0978197a8f0a9d4f1d8942b2fe8d4bb9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\fa6c2c7934074abf11edb9e888369bbe\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ea34904764b0aa27df72367ea9f4ba0f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\3182fc4700cebf171cd26d7434ac4bee\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8e9dce88475a05d87c0292a133519cd6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dfca1df6026a36f5c423f97bce3ac2b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b9291fcf96b7196ef7ede83777b91be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\499ee629a53c870b4e38074704761208\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:13:5-89
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:13:22-86
+application
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:14:5-40:19
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\8646c95a5aaf4a1d3867541708d2a8a1\AndroidManifest.xml:11:5-20
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\8646c95a5aaf4a1d3867541708d2a8a1\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\082fb93c5a507c24f81cb5561ad37cdf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\082fb93c5a507c24f81cb5561ad37cdf\AndroidManifest.xml:9:5-20
+MERGED from [com.github.userswlwork:pull-to-refresh:1.0.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\pull-to-refresh-1.0.0.aar\8ebfdff97e39bce425fdb59e0227ca33\AndroidManifest.xml:11:5-20
+MERGED from [com.github.userswlwork:pull-to-refresh:1.0.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\pull-to-refresh-1.0.0.aar\8ebfdff97e39bce425fdb59e0227ca33\AndroidManifest.xml:11:5-20
+MERGED from [com.xhb:xbanner:1.2.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\xbanner-1.2.2.aar\2868b013067307111632e635eb80512c\AndroidManifest.xml:9:5-13:19
+MERGED from [com.xhb:xbanner:1.2.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\xbanner-1.2.2.aar\2868b013067307111632e635eb80512c\AndroidManifest.xml:9:5-13:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\75e3b8e5d9addc9c1b5a6c1a3c722d71\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\75e3b8e5d9addc9c1b5a6c1a3c722d71\AndroidManifest.xml:11:5-20
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.3] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\bottom-navigation-bar-2.0.3.aar\88e329b7dee424586b7d22d030eb1be4\AndroidManifest.xml:11:5-47
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.3] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\bottom-navigation-bar-2.0.3.aar\88e329b7dee424586b7d22d030eb1be4\AndroidManifest.xml:11:5-47
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.4.aar\de74bc82387426282b6ab365f3d9e2ac\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.4.aar\de74bc82387426282b6ab365f3d9e2ac\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\4391b4b7105ef000b0a58f6dfb9741b9\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\4391b4b7105ef000b0a58f6dfb9741b9\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\3182fc4700cebf171cd26d7434ac4bee\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\3182fc4700cebf171cd26d7434ac4bee\AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:19:9-51
+	android:icon
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:17:9-46
+	android:allowBackup
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:15:9-32
+activity#com.bw.movie.ui.MainActivity
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:22:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.bw.movie.ui.member.act_login.view.UserLoginActivity
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:29:9-80
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:29:19-77
+activity#com.bw.movie.ui.member.act_reg.RegActivity
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:30:9-66
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:30:19-64
+activity#com.bw.movie.ui.cinema.view.MapActivity
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:31:9-63
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:31:19-61
+activity#com.bw.movie.ui.options.view.recordFeedBack.view.Act_options_recordFeedBack
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:32:9-100
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:32:19-97
+activity#com.bw.movie.ui.options.view.updatePwd.UpdatePwdActivity
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:33:9-81
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:33:19-78
+activity#com.bw.movie.ui.options.view.presenterMessage.Presenter_MessageActivity
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:34:9-96
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:34:19-93
+activity#com.bw.movie.ui.options.view.about.AboutActivity
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:35:9-82
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:35:19-70
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:36:9-38:63
+	android:value
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:38:13-61
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:37:13-50
+service#com.amap.api.location.APSService
+ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:39:9-76
+	android:name
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml:39:18-65
+uses-sdk
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\8646c95a5aaf4a1d3867541708d2a8a1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\8646c95a5aaf4a1d3867541708d2a8a1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\72a0c97f22c070a2fa7e243750bfdb9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\72a0c97f22c070a2fa7e243750bfdb9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\972947f03d61be5c05a7cee2cc8c4eb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\972947f03d61be5c05a7cee2cc8c4eb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\082fb93c5a507c24f81cb5561ad37cdf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\082fb93c5a507c24f81cb5561ad37cdf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\558b82d5c242c5cbc3e38e1abb43e104\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\558b82d5c242c5cbc3e38e1abb43e104\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\ddc37e246730184f72082ce0bc80ed91\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\ddc37e246730184f72082ce0bc80ed91\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\f568e79de411f8c7dd17691d0f1e0d91\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\f568e79de411f8c7dd17691d0f1e0d91\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base-support:0.14.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-base-support-0.14.1.aar\7207d3cb15b1bf1874bdb77605c69b53\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base-support:0.14.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-base-support-0.14.1.aar\7207d3cb15b1bf1874bdb77605c69b53\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\16fea95417cdb4fbf273d34d181f0103\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\16fea95417cdb4fbf273d34d181f0103\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-webp-1.10.0.aar\016e5ac3abfb4ef707dd08059b03e02b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-webp-1.10.0.aar\016e5ac3abfb4ef707dd08059b03e02b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\webpsupport-1.10.0.aar\52b7c811f2a3524ca9e8d82dce544683\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\webpsupport-1.10.0.aar\52b7c811f2a3524ca9e8d82dce544683\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\0b531a6aebb08b13257c34271f379f92\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\0b531a6aebb08b13257c34271f379f92\AndroidManifest.xml:19:5-43
+MERGED from [com.orhanobut:logger:2.2.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\logger-2.2.0.aar\524ffec7f230dc6ea3d99bbc611d0297\AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:2.2.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\logger-2.2.0.aar\524ffec7f230dc6ea3d99bbc611d0297\AndroidManifest.xml:6:5-43
+MERGED from [com.github.userswlwork:pull-to-refresh:1.0.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\pull-to-refresh-1.0.0.aar\8ebfdff97e39bce425fdb59e0227ca33\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.userswlwork:pull-to-refresh:1.0.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\pull-to-refresh-1.0.0.aar\8ebfdff97e39bce425fdb59e0227ca33\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xhb:xbanner:1.2.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\xbanner-1.2.2.aar\2868b013067307111632e635eb80512c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.xhb:xbanner:1.2.2] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\xbanner-1.2.2.aar\2868b013067307111632e635eb80512c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\75e3b8e5d9addc9c1b5a6c1a3c722d71\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\75e3b8e5d9addc9c1b5a6c1a3c722d71\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\8fc0967110ea3075a8f2b77bf51e3c7f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\8fc0967110ea3075a8f2b77bf51e3c7f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.3] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\bottom-navigation-bar-2.0.3.aar\88e329b7dee424586b7d22d030eb1be4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:2.0.3] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\bottom-navigation-bar-2.0.3.aar\88e329b7dee424586b7d22d030eb1be4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.4.aar\de74bc82387426282b6ab365f3d9e2ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.4.aar\de74bc82387426282b6ab365f3d9e2ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e765eada81a33bcf5767f654f905c8eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e765eada81a33bcf5767f654f905c8eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\99648502773a19c885098d49974f29bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\99648502773a19c885098d49974f29bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\459aecde731255e1a0ec6421751ee6f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\459aecde731255e1a0ec6421751ee6f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f66b37eb98670dba89cc6b71e82db28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f66b37eb98670dba89cc6b71e82db28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\88cc76cafe0c9c2452b03bc9e6682b6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\88cc76cafe0c9c2452b03bc9e6682b6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1cd0887dbe33635f70cdd35ae19de95f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1cd0887dbe33635f70cdd35ae19de95f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\4391b4b7105ef000b0a58f6dfb9741b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\4391b4b7105ef000b0a58f6dfb9741b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6b71fd41ece1e769d54e8b3f73d17b19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6b71fd41ece1e769d54e8b3f73d17b19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\578ff7bef5fe7504c1a9d0f333b0071f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\578ff7bef5fe7504c1a9d0f333b0071f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e8edd62cb4b170dbaa2b5446c84aa4d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e8edd62cb4b170dbaa2b5446c84aa4d0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\d07e39fbae6e9f13310ca98fa09b53bc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\d07e39fbae6e9f13310ca98fa09b53bc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\b8f81a830dff136a6f9a0cfd6f97b618\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\b8f81a830dff136a6f9a0cfd6f97b618\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\d796d1f3285d202e55a0cc2ac9361cd9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\d796d1f3285d202e55a0cc2ac9361cd9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\0978197a8f0a9d4f1d8942b2fe8d4bb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\0978197a8f0a9d4f1d8942b2fe8d4bb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\fa6c2c7934074abf11edb9e888369bbe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\fa6c2c7934074abf11edb9e888369bbe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ea34904764b0aa27df72367ea9f4ba0f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ea34904764b0aa27df72367ea9f4ba0f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\3182fc4700cebf171cd26d7434ac4bee\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\3182fc4700cebf171cd26d7434ac4bee\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8e9dce88475a05d87c0292a133519cd6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8e9dce88475a05d87c0292a133519cd6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dfca1df6026a36f5c423f97bce3ac2b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dfca1df6026a36f5c423f97bce3ac2b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b9291fcf96b7196ef7ede83777b91be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b9291fcf96b7196ef7ede83777b91be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\499ee629a53c870b4e38074704761208\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Who are you~\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\499ee629a53c870b4e38074704761208\AndroidManifest.xml:20:5-44
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\WeiDu\app\src\main\AndroidManifest.xml

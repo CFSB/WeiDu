@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">维度</string>
+    <!--    碎片顶部页面标题  -->
+    <string name="top_page_movie_title">电影</string>
+    <string name="top_page_cinema_title">影院</string>
+    <string name="top_page_member_title">我</string>
+    <string name="top_page_options_title">设置</string>
+    <!--    碎片底部导航名字  -->
+    <string name="bottom_navigation_movie_name">影片</string>
+    <string name="bottom_navigation_cinema_title">影院</string>
+    <string name="bottom_navigation_member_title">会员</string>
+    <string name="bottom_navigation_options_title">设置</string>
+
+    <!--    活动顶部页面标题    -->
+    <string name="top_page_userLogin_title">登录</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    登录界面-->
+    <string name="findUserBuyTickerRecordList">我的购票记录</string>
+    <string name="input_your_number">请输入手机号</string>
+</resources>

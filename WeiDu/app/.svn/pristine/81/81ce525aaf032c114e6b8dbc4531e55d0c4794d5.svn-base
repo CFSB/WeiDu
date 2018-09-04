@@ -1,0 +1,53 @@
+package com.bw.movie.utils;
+
+import com.bw.movie.api.Api;
+import com.bw.movie.api.HttpGetService;
+
+import java.util.concurrent.TimeUnit;
+
+import okhttp3.OkHttpClient;
+import retrofit2.Retrofit;
+import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
+import retrofit2.converter.gson.GsonConverterFactory;
+
+/**
+ * Created by admin on 2018-8-9.
+ */
+
+public class RetrofitClient {
+    private static final int DEFAULT_TIMEOUT = 5;
+
+    private static Retrofit retrofit;
+
+    private static HttpGetService mCommentsApi;
+
+    private static class SingInstance{
+        private static final RetrofitClient INSTANCE = new RetrofitClient();
+    }
+    //静态内部类单例
+    public static RetrofitClient getInstance() {
+        return SingInstance.INSTANCE;
+    }
+
+    public HttpGetService getCommonApi() {
+        return mCommentsApi == null ? configRetrofit(HttpGetService.class) : mCommentsApi;
+    }
+
+    private <T> T configRetrofit(Class<T> service) {
+        retrofit = new Retrofit.Builder()
+                .baseUrl(Api.BASE)
+                .client(configClient())
+                .addConverterFactory(GsonConverterFactory.create())
+                .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
+                .build();
+        return retrofit.create(service);
+    }
+
+    private OkHttpClient configClient() {
+        OkHttpClient.Builder okHttpClient = new OkHttpClient.Builder()
+                .connectTimeout(DEFAULT_TIMEOUT, TimeUnit.SECONDS)
+                .addInterceptor(new MyLogging());
+
+        return okHttpClient.build();
+    }
+}

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">维度</string>
+    <!--    碎片顶部页面标题  -->
+    <string name="top_page_movie_title">电影</string>
+    <string name="top_page_cinema_title">影院</string>
+    <string name="top_page_member_title">我</string>
+    <string name="top_page_options_title">设置</string>
+    <!--    碎片底部导航名字  -->
+    <string name="bottom_navigation_movie_name">影片</string>
+    <string name="bottom_navigation_cinema_title">影院</string>
+    <string name="bottom_navigation_member_title">会员</string>
+    <string name="bottom_navigation_options_title">设置</string>
+
+    <!--    活动顶部页面标题    -->
+    <string name="top_page_userLogin_title">登录</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    登录界面-->
+    <string name="findUserBuyTickerRecordList">我的购票记录</string>
+    <string name="input_your_number">请输入手机号</string>
+
+
+    <string name="person_message">个人信息</string>
+    <string name="update_password">变更密码</string>
+    <string name="automatic_login">自动登录</string>
+    <string name="Switching_night_mode">切换夜间模式</string>
+    <string name="clear_cache">清空缓存</string>
+    <string name="software_upgrading">软件升级</string>
+    <string name="suggestion_feedback">意见反馈</string>
+    <string name="About_the_dimension">关于维度</string>
+    <string name="Service_tel">客服电话 : 400-800-800</string>
+    <string name="version">2018 维度影院 版本所有</string>
+    <string name="log_out">退出登录</string>
+    <string name="submit">提交</string>
+    <string name="feedback">请您对我们的产品进行评价，为了我们能够更好的完善产品，请您提出宝贵的意见。</string>
+
+    //个人信息
+    <string name="head_portrait">头像</string>
+    <string name="nickname">昵称</string>
+    <string name="region">地区</string>
+    <string name="email">邮箱</string>
+    <string name="gender">性别</string>
+    <string name="Last_login_time">上次登录时间</string>
+
+    <string name="about">维度影院是八维旗下的一家集媒体内容、在线购票、用户互动社交、电影衍生品销售等服务的一站式电,影互联网平台。2018年6月,维度电影覆盖影院超过 4000家,这些影院的票房贡献占比超过90%。目前,维 .度占网络购票70%的市场份额,每三张电影票就有一张出自维度电影,是影迷下载量较多、使用率较高的电影应用软件。同时,维度电影为合作影院和电影制片发行方提供覆盖海量电影消费者的精准营销方案,助力影片票房。</string>
+
+</resources>

@@ -1,0 +1,41 @@
+// Generated code from Butter Knife. Do not modify!
+package com.bw.movie.ui.cinema.adapter;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.Utils;
+import com.bw.movie.R;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class CinNearFrgRecyclerviewAdapter$NearCinemaHolder_ViewBinding implements Unbinder {
+  private CinNearFrgRecyclerviewAdapter.NearCinemaHolder target;
+
+  @UiThread
+  public CinNearFrgRecyclerviewAdapter$NearCinemaHolder_ViewBinding(CinNearFrgRecyclerviewAdapter.NearCinemaHolder target,
+      View source) {
+    this.target = target;
+
+    target.NearCinemaTitleSimple = Utils.findRequiredViewAsType(source, R.id.NearCinema_title_simple, "field 'NearCinemaTitleSimple'", ImageView.class);
+    target.NearCinemaTitleText = Utils.findRequiredViewAsType(source, R.id.NearCinema_title_text, "field 'NearCinemaTitleText'", TextView.class);
+    target.NearCinemaAddressText = Utils.findRequiredViewAsType(source, R.id.NearCinema_address_text, "field 'NearCinemaAddressText'", TextView.class);
+    target.NearCinemaDistanceText = Utils.findRequiredViewAsType(source, R.id.NearCinema_distance_text, "field 'NearCinemaDistanceText'", TextView.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    CinNearFrgRecyclerviewAdapter.NearCinemaHolder target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.NearCinemaTitleSimple = null;
+    target.NearCinemaTitleText = null;
+    target.NearCinemaAddressText = null;
+    target.NearCinemaDistanceText = null;
+  }
+}

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dp_1"
+        android:background="#ccc"
+        />
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="horizontal"
+      >
+      <LinearLayout
+          android:id="@+id/cin_frg_linear_layout"
+          android:layout_width="@dimen/dp_0"
+          android:layout_height="match_parent"
+          android:layout_weight="3"
+          android:gravity="center">
+
+          <ImageView
+              android:id="@+id/NearCinema_title_simple"
+              android:layout_width="@dimen/dp_80"
+              android:layout_height="@dimen/dp_80" />
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="@dimen/dp_0"
+          android:layout_height="match_parent"
+          android:layout_weight="6"
+          android:orientation="vertical">
+
+          <TextView
+              android:layout_marginTop="@dimen/dp_10"
+              android:id="@+id/NearCinema_title_text"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="橙天嘉禾影城北京上地店"
+              android:textColor="#000"
+              android:textSize="@dimen/sp_13"
+              android:textStyle="bold" />
+
+          <TextView
+              android:layout_marginTop="@dimen/dp_5"
+
+              android:id="@+id/NearCinema_address_text"
+              android:layout_width="@dimen/dp_160"
+              android:layout_height="wrap_content"
+              android:singleLine="true"
+              android:text="北京市海淀区上地南口华联商厦4F"
+              android:textSize="@dimen/dp_10" />
+
+          <LinearLayout
+              android:layout_marginTop="@dimen/dp_5"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal">
+
+              <ImageView
+                  android:layout_width="@dimen/dp_20"
+                  android:layout_height="@dimen/dp_20"
+                  android:layout_marginLeft="@dimen/dp_0_5"
+                  android:src="@drawable/card" />
+
+              <ImageView
+                  android:layout_width="@dimen/dp_20"
+
+                  android:layout_height="@dimen/dp_20"
+                  android:layout_marginLeft="@dimen/dp_0_5"
+                  android:src="@drawable/dc" />
+
+              <ImageView
+                  android:layout_width="@dimen/dp_20"
+
+                  android:layout_height="@dimen/dp_20"
+                  android:layout_marginLeft="@dimen/dp_0_5"
+                  android:src="@drawable/cap" />
+
+              <ImageView
+                  android:layout_width="@dimen/dp_20"
+
+                  android:layout_height="@dimen/dp_20"
+                  android:layout_marginLeft="@dimen/dp_0_5"
+                  android:src="@drawable/stb" />
+
+              <ImageView
+                  android:layout_width="@dimen/dp_20"
+                  android:layout_height="@dimen/dp_20"
+                  android:layout_marginLeft="@dimen/dp_0_5"
+                  android:src="@drawable/xin" />
+          </LinearLayout>
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="@dimen/dp_0"
+          android:layout_height="match_parent"
+          android:layout_weight="1.5"
+          android:gravity="center">
+
+          <TextView
+              android:id="@+id/NearCinema_distance_text"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center"
+              android:layout_marginLeft="-5dp"
+              android:text="1.7km" />
+      </LinearLayout>
+  </LinearLayout>
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dp_1_5"
+        android:background="#ccc"
+        />
+</LinearLayout>
